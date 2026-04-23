@@ -70,12 +70,12 @@
 }
 
 .form_label {
+  font-weight: 600;
   font-size: 0.7rem;
+  padding-top: 100px;
+  margin-bottom: 12px;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: #191919;
-  font-weight: 500;
-  margin-bottom: 8px;
+  letter-spacing: 0;
 }
 
 .form_input {
