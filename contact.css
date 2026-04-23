@@ -97,6 +97,7 @@
 
 .form_input::placeholder {
   color: #b5b5b5;
+  font-size: 12px;
 }
 
 .form_input:focus {
@@ -143,6 +144,9 @@ textarea.form_input {
   .contact_hero_title h1 {
     font-size: 2.2rem;
     line-height: 1.25;
+    max-width: 130px;
+    margin: 0 auto;
+    text-align: center;
   }
 }
 
@@ -156,6 +160,9 @@ textarea.form_input {
   .contact_hero_title h1 {
     font-size: 1.5rem;
     line-height: 1.25;
+    max-width: 100px;
+    margin: 0 auto;
+    text-align: center;
   }
   .contact_hero_sub {
     font-size: 13px;
