@@ -66,14 +66,14 @@
 .contact_form {
   display: flex;
   flex-direction: column;
-  padding: 44px 38px;
+  padding: 10px 30px;
 }
 
 .form_label {
   font-size: 0.7rem;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  color: #777;
+  color: #191919;
   font-weight: 500;
   margin-bottom: 8px;
 }
