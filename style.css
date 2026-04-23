@@ -1023,10 +1023,18 @@ button {
     padding: 80px 55px;
   }
 
+  .skills_icons {
+    max-width: none;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    width: 100%;
+  }
+
   .skills_icons img {
-    width: 32px;
-    height: 32px;
-    margin: 4px;
+    width: 24px;
+    height: 24px;
+    margin: 3px;
+    flex-shrink: 0;
   }
 
   .cases_content {
