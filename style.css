@@ -1069,6 +1069,7 @@ button {
 
   .title {
     font-size: 0.8rem;
+    margin-top: -40px;
   }
 
   .pages_title h1 {
