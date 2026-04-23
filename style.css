@@ -1105,6 +1105,7 @@ button {
   .home_intro_content span:nth-of-type(2),
   .home_intro_content span:nth-of-type(3) {
     font-size: 12.35px;
+    line-height: 1.6;
   }
 
   /* Tighter section padding */

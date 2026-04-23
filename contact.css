@@ -151,10 +151,10 @@ textarea.form_input {
     padding: 130px 29px 20px 29px;
   }
   #contact-body {
-    padding: 20px 29px 60px 29px;
+    padding: 0 29px 60px 29px;
   }
   .contact_hero_title h1 {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     line-height: 1.25;
   }
   .contact_hero_sub {
